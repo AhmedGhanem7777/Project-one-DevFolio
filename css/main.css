@@ -442,6 +442,14 @@ nav {
     }
 }
 
+@media screen and (max-width:769px) {
+
+    #count .one{
+        padding-top: 20px;
+    }
+}
+
+
 /* End Count */
 
 
