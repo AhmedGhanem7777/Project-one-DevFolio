@@ -357,7 +357,7 @@ nav {
 }
 
 @media screen and (max-width:568px) {
-    #about h3{
+    #about h3 {
         margin-top: 20px;
     }
 }
@@ -445,7 +445,7 @@ nav {
 @media screen and (max-width:769px) {
 
     #count {
-        height: 50%;
+        height: 100%;
     }
 }
 
