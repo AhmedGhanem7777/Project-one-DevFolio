@@ -442,6 +442,13 @@ nav {
     }
 }
 
+@media screen and (max-width:769px) {
+
+    #count {
+        height: 50%;
+    }
+}
+
 /* End Count */
 
 
