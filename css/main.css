@@ -356,6 +356,12 @@ nav {
     left: 0;
 }
 
+@media screen and (max-width:568px) {
+    #about h3{
+        margin-top: 20px;
+    }
+}
+
 /* End About */
 
 
